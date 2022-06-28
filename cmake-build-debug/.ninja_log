@@ -1,0 +1,10 @@
+# ninja log v5
+1	529	1656351804591545525	Parser/CMakeFiles/Parser_internals.dir/src/Statement.cpp.o	6bee8a55e0c0690f
+0	536	1656351804597803785	Parser/CMakeFiles/Parser_internals.dir/src/Tokenizer.cpp.o	3b19ea77ba13c0e9
+0	547	1656351804610203461	Parser/CMakeFiles/Parser_internals.dir/src/FunctionDefinition.cpp.o	350673a7eab8748f
+1	582	1656351804643926256	Interpreter/CMakeFiles/interpreter_internals.dir/src/Interpreter.cpp.o	a1e1ff5c33bfcf7c
+582	620	1656351804688627000	Interpreter/libinterpreter_internals.a	60ff71c30a057c3d
+0	1089	1656351805147349365	Parser/CMakeFiles/Parser_internals.dir/src/Parser.cpp.o	694961c1ed0d5be3
+0	1125	1656351805183457518	CMakeFiles/Compiler.dir/main.cpp.o	60b9d78505c3f16a
+1089	1145	1656351805213353000	Parser/libParser_internals.a	d40ec383ac26238e
+1145	1216	1656351805283031764	Compiler	2c4447c00a1efd57

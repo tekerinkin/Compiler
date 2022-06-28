@@ -1,0 +1,156 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Parser",
+					"jsonFile" : "directory-Parser-Debug-59882b7fae02fdf45f99.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Parser",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"build" : "Interpreter",
+					"jsonFile" : "directory-Interpreter-Debug-efc98ff05e13f07172cd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "Interpreter",
+					"targetIndexes" : 
+					[
+						1,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Compiler",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "Parser",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "Interpreter",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Compiler::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Compiler-Debug-963737f44d725fff656f.json",
+					"name" : "Compiler",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Interpreter::@8cf851e1b880e8e8583b",
+					"jsonFile" : "target-Interpreter-Debug-696c8a53c387dfc26f82.json",
+					"name" : "Interpreter",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Parser::@74bff9814a543eacbe93",
+					"jsonFile" : "target-Parser-Debug-9053207c47d82aca8ea1.json",
+					"name" : "Parser",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Parser_internals::@74bff9814a543eacbe93",
+					"jsonFile" : "target-Parser_internals-Debug-33a11b4541e9a6ca6170.json",
+					"name" : "Parser_internals",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "interpreter_internals::@8cf851e1b880e8e8583b",
+					"jsonFile" : "target-interpreter_internals-Debug-78237ad1a6e8d122dd73.json",
+					"name" : "interpreter_internals",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/dimashestakov/Desktop/Compiler/cmake-build-debug",
+		"source" : "/Users/dimashestakov/Desktop/Compiler"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,5 @@
+# ninja log v5
+1	563	1656335793815361144	CMakeFiles/Interpreter.dir/main.cpp.o	7b68377d12f4bfff
+1	624	1656335793877006671	CMakeFiles/interpreter_internals.dir/Interpreter.cpp.o	da14b8f77a57500e
+624	656	1656335793914330000	libinterpreter_internals.a	82e52554b8b807b2
+656	696	1656335793953142920	Interpreter	bca26476a47a8385

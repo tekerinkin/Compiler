@@ -1,0 +1,11 @@
+/Users/dimashestakov/Desktop/Compiler/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dimashestakov/Desktop/Compiler/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dimashestakov/Desktop/Compiler/cmake-build-debug/CMakeFiles/Compiler.dir
+/Users/dimashestakov/Desktop/Compiler/cmake-build-debug/Parser/CMakeFiles/Parser.dir
+/Users/dimashestakov/Desktop/Compiler/cmake-build-debug/Parser/CMakeFiles/rebuild_cache.dir
+/Users/dimashestakov/Desktop/Compiler/cmake-build-debug/Parser/CMakeFiles/edit_cache.dir
+/Users/dimashestakov/Desktop/Compiler/cmake-build-debug/Parser/CMakeFiles/Parser_internals.dir
+/Users/dimashestakov/Desktop/Compiler/cmake-build-debug/Interpreter/CMakeFiles/rebuild_cache.dir
+/Users/dimashestakov/Desktop/Compiler/cmake-build-debug/Interpreter/CMakeFiles/edit_cache.dir
+/Users/dimashestakov/Desktop/Compiler/cmake-build-debug/Interpreter/CMakeFiles/Interpreter.dir
+/Users/dimashestakov/Desktop/Compiler/cmake-build-debug/Interpreter/CMakeFiles/interpreter_internals.dir

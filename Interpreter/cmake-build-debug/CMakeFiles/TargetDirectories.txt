@@ -1,0 +1,4 @@
+/Users/dimashestakov/Desktop/Interpreter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dimashestakov/Desktop/Interpreter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dimashestakov/Desktop/Interpreter/cmake-build-debug/CMakeFiles/Interpreter.dir
+/Users/dimashestakov/Desktop/Interpreter/cmake-build-debug/CMakeFiles/interpreter_internals.dir
